@@ -26,3 +26,6 @@ yarn-error.log*
 # IDE
 /.idea
 /.vs_code
+
+# styles
+/src/index.css
